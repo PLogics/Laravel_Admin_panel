@@ -1,0 +1,76 @@
+body {
+	margin: 0;
+}
+
+.maincontainer {
+	width: 1000px;
+	height: 100px;
+	margin: auto;
+}
+
+.maincontainer1 {
+	width: 100%;
+	height: 50px;
+	background-color: #006064;
+}
+
+.innercontainer1 {
+	width: 1000px;
+	height: 50px;
+	margin: auto;
+}
+
+.logo {
+	margin: 0;
+	font-family: arial;
+	font-weight: bold;
+	font-size: 20px;
+	color: white;
+	line-height: 50px;
+}
+
+.maincontainer2 {
+	width: 1000px;
+	height: 500px;
+	margin: auto;
+}
+
+.innercontainer2 {
+	width: 1000px;
+	height: 500px;
+	margin: auto;
+}
+
+.logintable {
+	font-family: arial;
+	font-size: 20px;
+	font-weight: bold;
+	width: 300px;
+	margin: auto;
+	padding-top: 5px;
+}
+
+.su {
+	text-align: center;
+	font-family: arial;
+	font-size: 30px;
+	font-weight: bold;
+	color: #0097A7;
+	margin-top: 30px;
+	height: 20px;
+}
+
+.btlogin {
+	font-family: arial;
+	font-size: 20px;
+	font-weight: bold;
+	background-color: #0097A7;
+	border-radius: 5px;
+}
+
+.footer {
+	width: 100%;
+	height: 50px;
+	margin: auto;
+	background-color: #0097A7;
+}
